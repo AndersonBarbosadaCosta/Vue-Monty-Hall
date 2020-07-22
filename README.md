@@ -1,24 +1,27 @@
-# monty-hall
+#  Problema de Monty Hall
 
-## Project setup
-```
-npm install
-```
+Projeto simples que simula problema de Monty Hall durante curso de VueJS da COD3R .
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Bibliotecas e tecnologias utilizadas:
+- VueJS
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Monty_Hall](https://i.imgur.com/oSx4TkP.png"Monty_Hall")
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Instalação
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+requisitos
+
+- Node instalado
+
+### Passo a Passo
+
+-  clone o repositório https://github.com/AndersonBarbosadaCosta/Vue-Monty-Hall.git
+
+- abra a pasta do projeto em seu editor preferido
+
+-  instale as dependências do projeto utilizando **npm** ou **yarn**
+
+    executar o comando  npm install  ou yarn install
+    subir a aplicação  npm run serve
+
+Podemos conferir a aplicação no endereço: http://localhost:8080
